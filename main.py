@@ -78,11 +78,6 @@ b=90
 a,b=b,a
 print(a)
 print(b)
-# User Input
-username = input("enter your name:")
-password = input("enter your password:")
-print(username)
-print(password)
 # casting type
 name = "12850"
 print(int(name))
@@ -90,3 +85,9 @@ print(type(int(name)))
 newnum="50"
 float(newnum)
 print(float(newnum))
+# User Input
+username = input("enter your name:")
+password = input("enter your password:")
+print(username)
+print(password)
+#
